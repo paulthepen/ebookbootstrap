@@ -1,3 +1,5 @@
+This is simply a review of Bootstrap and Sass. Feel free to use for examples/reference.
+
 # Ebook Website
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
